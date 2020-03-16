@@ -36,3 +36,16 @@ h6 is the smallest header.
 
 </html>
 ```
+
+### Paragraph: פיסקה 
+
+regular paragraph: 
+```html
+<p> </p>
+```
+pre - formatted paragraph: (keep the format of the text). 
+```html
+<pre> </pre>
+```
+
+
