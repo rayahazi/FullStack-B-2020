@@ -1,17 +1,18 @@
 ## HTML:
-
-1. head - contains the metadata of the page.(for example: style, title) 
+---
+##### 1. head - contains the metadata of the page.(for example: style, title) 
 ```html
 <head></head>
 ```
-2. body - contains the data that the user sees. 
+##### 2. body - contains the data that the user sees. 
 ```html
 <body></body>
 ```
 
-#### Headers :כותרות 
+### Headers :כותרות 
 h1 is the biggest header. 
 h6 is the smallest header. 
+
 ```html
 <!DOCTYPE html>
 <html lang="en">
