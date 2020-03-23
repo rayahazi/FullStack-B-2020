@@ -43,6 +43,7 @@
 </ul>
 ```
 ### Links 
+
 ##### from website:
 ```html
 <a href="this is the place for link">this is a place for what the user sees</a>
@@ -50,6 +51,7 @@
 ```html
 <a href=""></a>
 ````
+
 ##### links in the same page:
 1. ```#top` is known in html. 
 2. define ID to element:
