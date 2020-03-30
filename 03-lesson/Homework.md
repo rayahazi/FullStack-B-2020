@@ -16,5 +16,7 @@ In a separate page: `MyFamily.html`
 3. insert into the table at least three rows (to your choice)
 
 ## Part 3
+
 connect the 2 html pages:
+
 1.create a link in `home.html` that will lead to `MyFamily.html`
