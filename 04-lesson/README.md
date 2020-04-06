@@ -24,3 +24,6 @@ Placeholder attribute is the background of the input field. (in grey).
 ```html
 placeholder=""
 ```
+### Input range:
+```html
+<input type="range" min="" max=""/>
