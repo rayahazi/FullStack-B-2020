@@ -1,5 +1,8 @@
 # Lesson 04
 
+Full explanation about URL structure:
+<img src="URL.png">
+
 ### Button - כפתור
 * Note: we cannot use button tag without JavaScript. 
 ```html
@@ -13,17 +16,40 @@ for example: number, color, file, image, text, email, etc..
 <input type="" />
 ```
 
+##### Placeholder attribute
+Placeholder attribute is the background of the input field. (in grey). 
+```html
+placeholder=""
+```
+
+##### Min and max attributes
+min and max attributes are used for input type=range, to define the minimum and maximum range. 
+```html
+min="" max=""
+```
+##### name attribute
+the name attribute points to the query in the website. 
+example:
+```html
+name="q"
+```
+
 ### Form 
 The form element represents a collection of input elements
 
 ```html
 <form></form>
 ```
-### Placeholder
-Placeholder attribute is the background of the input field. (in grey). 
+
+### Select
+The select tag used to create a drop-down of many options. The user can select one option. 
 ```html
-placeholder=""
+<select>
+
+    <option></option>
+    <option></option>
+    <option></option>
+    <option></option>
+
+</select>
 ```
-### Input range:
-```html
-<input type="range" min="" max=""/>
