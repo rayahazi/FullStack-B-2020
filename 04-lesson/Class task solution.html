@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    <form action="https://www.wunderground.com/wundermap">
+
+        <h6>Latitude: </h6>
+        <input type="number" placeholder="70" name="lat"/>
+
+        <h6>Longtitude: </h6>
+        <input type="number" placeholder="70" name="lon"/>
+
+
+        <h6>Zoom:</h6>
+        <select name="zoom">
+
+            <option>3</option>
+            <option>4</option>
+            <option>5</option>
+            <option>6</option>
+
+        </select>
+
+        <input type="submit" value="Search"/>
+
+    </form>
+
+
+    <!--Result:
+     This is the url after submitting: 
+     https://www.wunderground.com/wundermap?lat=5&lon=13&zoom=6
+    -->
+
+</body>
+</html>
