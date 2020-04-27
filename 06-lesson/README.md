@@ -21,7 +21,7 @@ Negative values are not allowed.
 * margin-top
 * margin-left
 * margin-right
-* margin-buttom
+* margin-bottom
 ```
 ```css
 margin: 10px 10px 10px 10px;
