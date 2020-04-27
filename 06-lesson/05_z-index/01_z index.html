@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+    <style>
+       
+        div{
+            /* Content */
+            color: blue;
+            width: 200px;
+            height: 200px;
+
+            /* Padding */
+            padding:  15px;
+
+             /* Margin */
+             margin:  20px;
+
+            /* Border */ 
+            border-width: 5px;
+            border-style: double;
+            border-color: red;
+        }
+
+        #a1{
+            float: left;
+        }
+
+        #a2{
+            z-index: 3;
+            background-color: yellow;
+            position: fixed;
+            right: 0px;
+            bottom: 70px;
+        }
+        #a3{
+            z-index: 2;
+            background-color: green;
+            position: fixed;
+            right: 100px;
+            bottom: 0px;
+        }
+
+
+    </style>
+</head>
+<body>
+    
+    <div id="a1">first</div>
+    <div id="a2">second</div>
+    <div id="a3">third</div>
+
+</body>
+</html>
