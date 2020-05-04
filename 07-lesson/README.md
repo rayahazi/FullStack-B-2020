@@ -9,5 +9,9 @@
 
 ---
 ## Create a calculator with any design you want. 
+Must have:
+* Main div. (All the buttons / divs will be inside that div). 
+* All the buttons as it appears in the picture. 
+* Background-color and design to each button. 
 
 <img height=400 src="https://i.pinimg.com/originals/4b/3d/c3/4b3dc3283eeaf446c8ae8f35c0c4350d.png">
