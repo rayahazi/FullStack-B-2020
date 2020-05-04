@@ -1,0 +1,10 @@
+# Class task
+
+1. Create HTML page with `<div>` with id of `divId`, and class of `aClass`.
+2. Create h1 with class of `aClass`.
+3. In separate css file - add for `divId` height, width, border(color: blue), rounded border, and background image with no-repeat.
+4. Do the same for h1. add some text for the header.
+5. for class `aClass` - define the color border for : red.
+6. deternime the border color to work for the `div` and the `h1`.
+
+<img src="https://i.pinimg.com/originals/4b/3d/c3/4b3dc3283eeaf446c8ae8f35c0c4350d.png">
