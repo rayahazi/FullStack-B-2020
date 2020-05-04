@@ -1,0 +1,50 @@
+#clock {
+  height: 200px;
+  width: 200px;
+  border: yellow solid 5px;
+  margin: 100px;
+  border-radius: 50%;
+}
+#up {
+  text-align: center;
+  padding-top: 20px;
+}
+#right {
+  float: right;
+  padding-top: 45px;
+  padding-right: 10px;
+}
+#left {
+  float: left;
+  padding-top: 45px;
+  padding-left: 10px;
+}
+#down {
+  text-align: center;
+  padding-top: 130px;
+}
+#short {
+  background-color: black;
+  height: 1px;
+  width: 40px;
+  position: fixed;
+  top: 200px;
+  left: 210px;
+}
+#long {
+  background-color: black;
+  height: 50px;
+  width: 1px;
+  position: fixed;
+  top: 150px;
+  left: 210px;
+}
+#middle {
+  background-color: black;
+  height: 10px;
+  width: 10px;
+  border-radius: 50%;
+  position: fixed;
+  top: 195px;
+  left: 205px;
+}
