@@ -7,4 +7,7 @@
 5. for class `aClass` - define the color border for : red.
 6. deternime the border color to work for the `div` and the `h1`.
 
-<img src="https://i.pinimg.com/originals/4b/3d/c3/4b3dc3283eeaf446c8ae8f35c0c4350d.png">
+---
+## Create a calculator with any design you want. 
+
+<img height=400 src="https://i.pinimg.com/originals/4b/3d/c3/4b3dc3283eeaf446c8ae8f35c0c4350d.png">
