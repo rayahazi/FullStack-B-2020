@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <style>
+      /* Selects only the p that is right after the div*/
+      div + p {
+        background-color: red;
+      }
+
+      /* Selects only the p that are inside the div*/
+      div > p {
+        background-color: rgb(111, 111, 226);
+      }
+
+      /*Selects only the first-child in element that is also p: */
+      p:nth-child(1) {
+        background-color: yellow;
+      }
+      p:nth-child(2) {
+        background-color: green;
+      }
+
+      /*Selects all the elements in the document*/
+      * {
+        border: 3px solid brown;
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <p>Before div</p>
+
+    <div>
+      <h6>This is h1</h6>
+      <p>line 1</p>
+      <p>line 2</p>
+      <p>line 3</p>
+    </div>
+
+    <p>After div</p>
+  </body>
+</html>

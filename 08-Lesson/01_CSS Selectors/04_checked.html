@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      img {
+        height: 100px;
+      }
+      /* Default - Hide all the images: */
+      input + label + img {
+        display: none;
+      }
+
+      /* If we press the checkbox - the image will be displayed */
+      input:checked + label + img {
+        display: block;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Seasons:</h1>
+    <input type="checkbox" /> <label>Winter</label>
+    <img
+      src="https://w-dog.pw/android-wallpapers/9/14/393790291732019/winter-snow-house-tree-nature-forest-mountain-sky.jpg"
+    />
+    <br />
+    <input type="checkbox" /> <label>Summer</label>
+    <img
+      src="http://getwallpapers.com/wallpaper/full/0/a/2/987114-best-summertime-wallpaper-1920x1080-for-retina.jpg"
+    />
+    <br />
+    <input type="checkbox" /> <label>Spring</label>
+    <img
+      src="https://thewallpaper.co/wp-content/uploads/2016/10/Spring-desktop-background-wallpaper-hd-wallpapers-high-definition-amazing-cool-desktop-wallpapers-for-windows-apple-mac-tablet-1920x1200.jpg"
+    />
+    <br />
+    <input type="checkbox" /> <label>Fall</label>
+    <img
+      src="https://images.squarespace-cdn.com/content/541b0e55e4b0e2c1596d4542/1443733456445-C5EL0NO57XSO1EEIZ5KA/image-asset.jpeg?content-type=image%2Fjpeg"
+    />
+    <br />
+  </body>
+</html>
