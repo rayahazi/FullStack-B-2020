@@ -82,6 +82,12 @@ The grid system is responsive, and the columns will re-arrange automatically dep
   <div class="col-8"></div>
   <div class="col-4"></div>
 </div>
+
+
+<div class="row">
+  <div class="col-8"></div>
+  <div class="col-4"></div>
+</div>
 ```
 ---
 
