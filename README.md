@@ -1,8 +1,8 @@
-# Fullstack - B - 2020
-# Full stack course:
+# Full stack course
 
-## HTML:
-
+<html>
+<h2 style="text-align:center; ">HTML</h2>
+</html>
 ### Lesson 01:
 
 - Intro to wed development - what is HTML, CSS, JS
@@ -48,24 +48,21 @@
 - range input
 - Class task
 
-## CSS
+<h2 style="text-align:center; ">CSS</h2>
 
 ### Lesson 05:
 
-- What is css - cascade style sheet. syntax:
-
-```
-    Selector{
-        property:value;
-    }
-```
-
+- What is css - cascade style sheet.
+- syntax
 - selectors ( by: id / class / tag)
 - three ways to add css
   - way 1 - inner css
   - way 2 - header css
   - way 3 - outer css
-- css colors ( by: name / rgb / hex )
+- css colors
+  - name
+  - rgb
+  - hex
 
 ### Lesson 06:
 
@@ -107,9 +104,12 @@
 - Opacity
 - Overflow
 
+<h2 style="text-align:center; ">Bootstrap</h2>
+
+
 ### Lesson 09:
 
-* Metatags
+- Metatags
 
 Bootstrap:
 
