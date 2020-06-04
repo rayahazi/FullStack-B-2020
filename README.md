@@ -1,8 +1,9 @@
 # Full stack course
 
-<html>
+
 <h2 style="text-align:center; ">HTML</h2>
-</html>
+
+
 ### Lesson 01:
 
 - Intro to wed development - what is HTML, CSS, JS
