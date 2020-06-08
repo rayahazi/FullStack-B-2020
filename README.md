@@ -140,9 +140,8 @@ Bootstrap:
 
 ### Lesson 12:
 
-- regex
-
-* basic js with HTML.
+* Website structure
+* basic js with HTML
 
 ### Lesson 13:
 
