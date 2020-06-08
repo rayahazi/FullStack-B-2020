@@ -6,4 +6,4 @@
 * Side bar
 * Footer
 
-<img src="webstr.PNG">
+<img src="webstr.png">
