@@ -146,5 +146,3 @@ Bootstrap:
 ### Lesson 13:
 
 Prepare to exam
-
-> Some of the materials in this course are from: [Anna Karpf](https://github.com/AnnaKarpf)
